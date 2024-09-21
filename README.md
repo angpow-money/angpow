@@ -1,4 +1,4 @@
-# angpow
+# angpao
 
 We are developing an on-chain service that allows users to give "angpao" gifts with a single click of url link without the worry of wallet and knowledge of web3, bring funs to normies, friends and family, hoping to onboard them easier =)
 
