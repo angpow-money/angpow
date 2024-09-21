@@ -1,1 +1,14 @@
 # angpow
+
+We are developing an on-chain service that allows users to give "angpao" gifts with a single click of url link without the worry of wallet and knowledge of web3, bring funs to normies, friends and family, hoping to onboard them easier =)
+
+## Repositories
+
+- [angpow-app](https://github.com/angpow-money/angpow-app): Our frontend, written in vue and astro, deployed in cloudflare
+- [angpow-worldcoin-verifier](https://github.com/angpow-money/angpow-worldcoin-verifier): Worldcoin verifier api server, written in js, hono framework, deployed to flyio
+- [angpow_ens_worker](https://github.com/angpow-money/angpow_ens_worker): API server to store create ENS subdomain names in redis
+- [angpow-substreams](https://github.com/angpow-money/angpow-substreams): Substreams Package auto generated with `substream init`
+- [angpow-substreams-sink](https://github.com/angpow-money/angpow-substreams-sink): Substreams JS Sink run on substreams package, to stream data from blockchain to our database
+- [angpow-contract](https://github.com/angpow-money/angpow-contract): angpao contract, scaffold from `hardhat`, deployed to arbitrum testnet
+- [ens-resolver](https://github.com/angpow-money/ens-resolver): solidity contract which implements CCIP read to resolve ENS subdomain name which are stored off chain
+- [angpow_gateway](https://github.com/angpow-money/angpow_gateway): Offchain Resolver's Gateway for Offchain ENS
