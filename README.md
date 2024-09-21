@@ -1,6 +1,6 @@
 # angpao
 
-We are developing an on-chain service that allows users to give "angpao" gifts with a single click of url link without the worry of wallet and knowledge of web3, bring funs to normies, friends and family, hoping to onboard them easier =)
+angpao.money is a magic-link utility to make receiving crypto as intuitive as handing over cash in an envelope. Absolute zero dependency: install nothing and gas-free, Angpao.money hyper-charge onboarding by bridging the UX gap, making every transfer fun, personal and memorable.
 
 ## Repositories
 
