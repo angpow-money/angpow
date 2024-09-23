@@ -12,3 +12,9 @@ angpao.money is a magic-link utility to make receiving crypto as intuitive as ha
 - [angpow-contract](https://github.com/angpow-money/angpow-contract): angpao contract, scaffold from `hardhat`, deployed to arbitrum testnet
 - [ens-resolver](https://github.com/angpow-money/ens-resolver): solidity contract which implements CCIP read to resolve ENS subdomain name which are stored off chain
 - [angpow_gateway](https://github.com/angpow-money/angpow_gateway): Offchain Resolver's Gateway for Offchain ENS
+
+Update:
+We've create a snapshot of what's being shown during the ETHGlobal Singapore live demo:
+[Website](https://c796b384.angpow-app.pages.dev/)
+[Github ETHGlobal Branch](https://github.com/angpow-money/angpow-app/tree/ethglobal)
+[Release](https://github.com/angpow-money/angpow-app/releases/tag/ethglobal_demo)
